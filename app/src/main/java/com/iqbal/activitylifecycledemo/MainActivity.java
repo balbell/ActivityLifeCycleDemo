@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    // Dev by Iqbal
     TextView tvOutput;
     Integer bilangan;
     Button btnSubmit;
